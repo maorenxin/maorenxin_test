@@ -1,2 +1,2 @@
 # maorenxin_test
-test
+maorenxin init
